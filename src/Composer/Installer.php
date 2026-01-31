@@ -1,6 +1,6 @@
 <?php
 
-namespace Teapodsoft\___\Composer;
+namespace Teapodsoft\Composer;
 
 use Composer\Script\Event;
 
